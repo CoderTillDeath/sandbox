@@ -4,3 +4,4 @@ Hello dev2!
 Hello dev!
 Hello dev3!
 Hello hotfix-1!
+Hello hotfix-2!
